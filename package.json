@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "cypress": "12.5.0"
+  },
+  "name": "verity-cypress",
+  "version": "1.0.0",
+  "author": "srpantoja <jkjeanigor@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  }
+}
